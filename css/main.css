@@ -86,6 +86,7 @@ header button {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  position: relative;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -155,6 +156,10 @@ header button {
 
 .right-welcome img {
   width: 100%;
+}
+
+.welcome--yellow-ball {
+  visibility: hidden;
 }
 
 .social-media {
@@ -440,7 +445,7 @@ header button {
           justify-content: center;
   width: 100%;
   height: 400px;
-  background-image: url("/assets/popular-bg.png");
+  background-image: url("https://i.ibb.co/fGdgDVr/popular-bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

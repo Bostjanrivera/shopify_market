@@ -49,6 +49,12 @@ header button {
       grid-template-columns: repeat(2, 1fr);
 }
 
+.welcome--yellow-ball {
+  visibility: visible;
+  position: absolute;
+  width: 120px;
+}
+
 .left-welcome {
   -webkit-box-align: start;
       -ms-flex-align: start;
