@@ -1,0 +1,28 @@
+.social-media {
+  display: grid;
+  width: 100%;
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 25px;
+  margin-bottom: 30px;
+}
+.social-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+.social-card img{
+  height: 120px;
+  margin-bottom: 20px;
+}
+.social-card h3 {
+  font-size: 3rem;
+  margin-bottom: 30px;
+  color: $text-color;
+}
+.social-card p {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  color: $text-color;
+}

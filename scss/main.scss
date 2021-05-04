@@ -1,0 +1,17 @@
+@import "./libs/colors";
+@import "./header";
+@import "./main/welcome";
+@import "./main/social_media";
+@import "./main/promotions";
+@import "./main/blog";
+@import "./main/popular";
+@import "./main/insterested";
+
+@media (min-width: 768px) {
+  body {
+    padding: 0 15%;
+  }
+  .nav li {
+    margin-left: 50px;
+  }
+}
