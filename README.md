@@ -21,5 +21,7 @@ this project is part of a platzi master C7 challenge To carry it out, the follow
 
 ## Screenshots
 
-- mobile: ![](https://i.ibb.co/V2g2pPX/bostjanrivera-github-io-shopify-market.png)
-- desktop: ![](https://i.ibb.co/gWKtt0p/bostjanrivera-github-io-shopify-market-1.png)
+#### mobile: 
+![](https://i.ibb.co/V2g2pPX/bostjanrivera-github-io-shopify-market.png)
+#### desktop:
+![](https://i.ibb.co/gWKtt0p/bostjanrivera-github-io-shopify-market-1.png)
