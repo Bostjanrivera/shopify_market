@@ -18,3 +18,8 @@ a non-functional UI replica part of a Platzi Master C7 challenge
 this project is part of a platzi master C7 challenge To carry it out, the following courses were taken from the Platzi platform:
 - [Curso de SASS](https://platzi.com/clases/sass/ "Curso de SASS")
 - [Curso definitivo de HTML y CSS](https://platzi.com/clases/html-css/ "Curso definitivo de HTML y CSS")
+
+## Screenshots
+
+- mobile: ![](https://i.ibb.co/V2g2pPX/bostjanrivera-github-io-shopify-market.png)
+- desktop: ![](https://i.ibb.co/gWKtt0p/bostjanrivera-github-io-shopify-market-1.png)
